@@ -24,7 +24,7 @@
     <Button
         android:id="@+id/k_button"
         android:layout_width="300dp"
-        android:layout_height="wrap_content"
+        android:layout_height="55dp"
         android:layout_alignParentLeft="true"
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
